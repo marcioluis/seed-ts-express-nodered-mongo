@@ -1,0 +1,16 @@
+[
+    {
+        "id": "ecfcd429.4766c8",
+        "type": "tab",
+        "label": "Flow1"
+    },
+    {
+        "id": "803eddd8.69578",
+        "type": "redis-config",
+        "z": "",
+        "host": "{{REDIS_SERVER}}",
+        "port": "{{REDIS_PORT}}",
+        "dbase": "{{REDIS_DB}}",
+        "pass": ""
+    }
+]
